@@ -1,6 +1,7 @@
 {
   "packs": [
-    "CorginSFW.json"
+    "CorginSFW.json",
+    "RedPandaLinus.json"
   ],
   "homeserver_url": "https://matrix.lla.im"
 }
